@@ -1,4 +1,4 @@
-##Object Detection Using Transformers:
+## Object Detection Using Transformers:
 
 - I've used meta's detr-resnet-101 model to perform object detection.
 - The model is availble for use at:
@@ -8,7 +8,7 @@ _ I've buiid a simple Flask web app to deploy it.
 - API testing has been done by me on Postman.
 
 
-####Usage:
+#### Usage:
 - The app can be accessed through POST requests with a form-data body.
 - It outputs intra image object location, match confidence percentage and
 a object label in the form of a JSON.
