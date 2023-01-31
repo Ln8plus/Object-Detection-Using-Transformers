@@ -22,6 +22,6 @@ def transform(img:Image):
         box = [round(i, 2) for i in box.tolist()]
         item_number += 1
         output_dict[f'Object {item_number}'] = {'Object Name':f'{model.config.id2label[label.item()]}'.title(), 
-                                    'Match Confidence':f'{round(score.item(), 4)*100}%', 
+                                    'Match Confidence':f'{round(score.item(), 4)*100} %', 
                                     'Image Grid Coordinates':f'{box}'}
     return output_dict
