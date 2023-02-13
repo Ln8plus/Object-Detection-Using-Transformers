@@ -15,13 +15,13 @@ a object label in the form of a JSON.
 
 
 #### Input
-[!image](https://drive.google.com/uc?export=view&id=1tFn_cYNQvQDSNR0GETloTtna5XBCzCFw)
+![image](https://drive.google.com/uc?export=view&id=1tFn_cYNQvQDSNR0GETloTtna5XBCzCFw)
 
 
 
 #### Output
-[!image](https://drive.google.com/uc?export=view&id=1fAB3GqVGo7ySkN_VLOWpsuy89GIq4G-y)
+![image](https://drive.google.com/uc?export=view&id=1fAB3GqVGo7ySkN_VLOWpsuy89GIq4G-y)
 
-[!image](https://drive.google.com/uc?export=view&id=1nhMpS_BMvrApNpizXiLvszwJbAUjgKjW)
+![image](https://drive.google.com/uc?export=view&id=1nhMpS_BMvrApNpizXiLvszwJbAUjgKjW)
 
-[!image](https://drive.google.com/uc?export=view&id=1LErNfCelHJXHBYKK9OIeS3N7nBnKHlRV)
+![image](https://drive.google.com/uc?export=view&id=1LErNfCelHJXHBYKK9OIeS3N7nBnKHlRV)
